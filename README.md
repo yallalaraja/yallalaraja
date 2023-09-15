@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Software Developer ❤️ from India 🇮🇳 </h3>
 <h5 align="center">Thank you Visiting my profile ☺</h5>
 <h6 align="center">Have a Great day 👍 & Happy Coding! 🙂</h6>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisatwik21&label=Profile%20views&color=0e75b6&style=flat" alt="saisatwik21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yallalaraja&label=Profile%20views&color=0e75b6&style=flat" alt="yallalaraja" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yallalaraja" alt="yallalaraja" /></a> </p>
 <p align="left"> <a href="https://twitter.com/YallalaRaja" target="blank"><img src="https://img.shields.io/twitter/follow/YallalaRaja?s=twitter&style=for-the-badge" alt="yallalaraja" /></a> </p>
 
@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yallala-venkata-raja-reddy-5b9162260/)
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YallalaRaja?s) 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
- )](https://www.instagram.com/rajare/?hl=en) 
+ )](https://www.instagram.com/rajareddy_yallala/?hl=en) 
 
 
  # 💻 Tech Stack:
