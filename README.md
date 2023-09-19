@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm YALLALA VENKATA RAJA REDDY</h1>
 <h3 align="center">A passionate Software Developer ❤️ from India 🇮🇳 </h3>
-<h5 align="center">Thank you Visiting my profile ☺</h5>
+<h5 align="center">Thank you for Visiting my profile ☺</h5>
 <h6 align="center">Have a Great day 👍 & Happy Coding! 🙂</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yallalaraja&label=Profile%20views&color=0e75b6&style=flat" alt="yallalaraja" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yallalaraja" alt="yallalaraja" /></a> </p>
