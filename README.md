@@ -55,7 +55,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yallalaraja&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yallalaraja" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yallalaraja&theme=tokyonigh" alt="saisatwik21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yallalaraja&theme=tokyonigh" alt="yallalaraja" /></p>
 
 
 ### ✍️ Random Dev Quote
