@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yallala-venkata-raja-reddy-5b9162260/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yv-raja-reddy-5b9162260)
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YallalaRaja?s) 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
  )](https://www.instagram.com/rajareddy_yallala/?hl=en) 
@@ -64,16 +64,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yallalaraja&theme=tokyonigh" alt="yallalaraja" /></p>
 
 
-### ✍️ Random Dev Quote
-<p align="justify">""Programming isn't about what you know; it's about what you can figure out."" 
+### ✍️ Dev Quote
+<p align="justify">
+    "Code is not just instructions to a machine — it's a conversation between the mind and the future."
     <br>
-    "Software development: turning ideas into reality, one line of code at a time."
+    "Great developers don't just build software. They craft experiences, solve real problems, and leave digital footprints that matter."
 </p>
+<br>
+<p align="justify">
+    "Programming is the art of thinking clearly and telling the computer exactly what you mean — no more, no less."
     <br>
-<p align="justify">"Programming is the closest thing we have to magic." 
-    <br>
-    "In the world of coding, every problem is just an opportunity for a solution."
+    "Every bug is a story, every fix a lesson — that's how devs grow into engineers."
 </p>
+
 
   
     
